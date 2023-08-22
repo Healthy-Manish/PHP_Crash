@@ -12,6 +12,7 @@ $colors = [
     4 => 'blue',
     6 => 'green'
 ];
+asort($colors);
 
 echo $colors[4];
 
